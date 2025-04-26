@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Pick up and carry <color=#47D1A8>Goigy</color> to Depressurizer in [ZONE_8]",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Apportez le <color=orange>nouveau-né</color> au dépressurisateur de la [ZONE_8].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Raccogliere e portare il <color=orange>Neonato</color> al Depressurizzatore in [ZONE_8].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Heben Sie das <color=orange>Neugeborene</color> auf und tragen Sie es zum Druckregler in [ZONE_8].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Recoge al <color=orange>neonato</color> y llévalo al despresurizador de la [ZONE_8].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Возьмите <color=orange>новорожденного</color> и отнесите его к депрессору в [ZONE_8].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Pegue e carregue o <color=orange>neonato</color> até o despressurizador na [ZONE_8]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zabierz <color=orange>noworodka</color> i zanieś go do stacji depresatora w strefie 8 [ZONE_8]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "<color=orange>新生児</color>を拾い上げ、[ZONE_8]の降圧器に運べ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "<color=orange>신생아</color>를 찾아 [ZONE_8]의 감압기로 운반",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "撿起<color=orange>新生兒</color>並帶到[ZONE_8]的減壓器",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "拾取<color=orange>新生儿</color>并将其带到[ZONE_8]中的减压器上",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.PickUpNeo_R7B1",
+    "internalEnabled": true,
+    "persistentID": 2397179020
+}

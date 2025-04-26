@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Return <color=#47D1A8>Goigy</color> to the point of entrance in [EXTRACTION_ZONE]",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Ramenez le <color=orange>nouveau-né</color> au point d'entrée de la [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Riportare il <color=orange>Neonato</color> al punto d'ingresso in [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Bringen Sie das <color=orange>Neugeborene</color> zum Eintrittspunkt in [EXTRACTION_ZONE] zurück.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Devuelve al <color=orange>neonato</color> al punto de entrada en la [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Верните <color=orange>новорожденного</color> к месту начала экспедиции в [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Retorne o <color=orange>neonato</color> ao ponto de entrada na [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Przenieś <color=orange>noworodka</color> do punktu wejścia w strefie [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "<color=orange>新生児</color>を[EXTRACTION_ZONE]の入口へ戻せ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "<color=orange>신생아</color>를 [EXTRACTION_ZONE]의 진입점으로 돌려보내기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將<color=orange>新生兒</color>放回[EXTRACTION_ZONE]的入口",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将<color=orange>新生儿</color>放回[EXTRACTION_ZONE]的入口处",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.Return_R7B1",
+    "internalEnabled": true,
+    "persistentID": 1099551147
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#FFA500>Ascended Goigy</color> secured and awake. Leave it and ge%¤ ::%ERR biomass present eEEr [EXTRACTION_ZONE]",
+    "Description": "Don't translate [EXTRACTION_ZONE]. Text is supposed to be \"scrambled\" and not make complete sense. ",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Nouveau-né empreint sécurisé et réveillé. Laissez-le et ge%¤ ::%ERR biomasse présente eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Neonato con imprinting assicurato e sveglio. Lasciarlo e usc%¤ ::%ERR biomassa presente eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Geprägtes Neugeborenes gesichert und wach. Lassen Sie es zurück und ge%¤ ::%FEH Biomasse präsent eFFer [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Neonato marcado asegurado y activado. Dejar y co%¤ ::%ERR biomasa presente eEEr [EXTRACTION_ZONE]...",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Новорожденный с отпечатком установлен и пробужден. Оставьте его и покин%¤ ::%ОШИБ обнаружена биосигнатура оШШб [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Neonato impresso em segurança e despertado. Deixe-o e obt%¤ ::%ERR presença de biomassa eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Noworodek po imprintingu zabezpieczony i obudzony. Zostaw go i %¤ ::%BŁĄ wykryto biomasę bŁŁą [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "インプリントされた新生児は固定され、目覚めた。そのまま放置し%¤ ::%ERR 生体反応が eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "각인된 신생아 확보 및 깨어남. 이탈하여 ge%¤ ::%ERR 바이오매스 eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "印記新生兒安全且清醒。將其留下然後%¤ ::%ERR生物質出現eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "印记的新生儿已放置好并醒来。留下它然后%¤ ::%ERR检测到生物质eEEr [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3D1.GoToWinCondition_Elevator",
+    "internalEnabled": true,
+    "persistentID": 1706830984
+}

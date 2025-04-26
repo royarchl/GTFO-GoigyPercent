@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color> ACTIVATOR",
+    "Description": "HSU is short for Hydrostasis Unit",
+    "CharacterMetaData": 5,
+    "French": {
+        "Translation": "ACTIVATEUR D'HSU",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "ATTIVATORE HSU",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "HSU-AKTIVATOR",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "ACTIVADOR DE HSU",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "АКТИВАТОР HSU",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "ATIVADOR DE HSU",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "AKTYWATOR HSU",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "HSUアクティベーター",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "HSU 활성기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "HSU啟動器",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "HSU激活器",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "InGame.Terminal.HSU_ACTIVATOR",
+    "internalEnabled": true,
+    "persistentID": 2226590050
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Find HydroStasis Depressurizer [ITEM_SERIAL] and use it to free <color=#47D1A8>Goigy</color>.",
+    "Description": "Don't translate [ITEM_SERIAL]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Trouvez le dépressurisateur d'hydrostase [ITEM_SERIAL] et utilisez-le pour ouvrir la HSU infantile.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Trovare Depressurizzatore idrostatico [HydroStasis Depressurizer] [ITEM_SERIAL] e usarlo per aprire l'HSU Neonato.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Finden Sie den Hydrostasis-Druckregler [HydroStasis Depressurizer] [ITEM_SERIAL] und nutzen Sie ihn, um die neugeborene HSU-Einheit zu öffnen.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Busca el despresurizador de hidroletargo [HydroStasis Depressurizer] [ITEM_SERIAL] y utilízalo para abrir la HSU neonatal.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Найдите стазисный депрессор [ITEM_SERIAL] [DPR] и с его помощью откройте HSU с новорожденным.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Encontre o despressurizador de hidroestase [HydroStasis Depressurizer] [ITEM_SERIAL] e use-o para abrir o HSU neonato.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Znajdź depresator hydrostazy [ITEM_SERIAL] i użyj go do rozhermetyzowania jednostki hydrostazy noworodka.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ハイドロスタシス降圧器[ITEM_SERIAL][HydroStasis Depressurizer]を見つけ、それを使って新生児HSUを開け。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "수분식 생체 정지 감압기[DPR][ITEM_SERIAL]를 찾아 신생아 HSU를 여세요.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "尋找靜液減壓器[HydroStasis_Depressurizer][ITEM_SERIAL]並用來開啟新生兒HSU。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "找到流体静力减压器[HydroStasis_Depressurizer] [ITEM_SERIAL]并用它来打开新生儿HSU。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3B2.MainObjective_MainObjective",
+    "internalEnabled": true,
+    "persistentID": 2698439582
+}

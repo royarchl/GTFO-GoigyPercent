@@ -1,0 +1,52 @@
+{
+    "datablock": "Item",
+    "publicName": "GOIGY",
+    "LocalizedName": 0,
+    "terminalItemShortName": "GOIGY",
+    "terminalItemLongName": 2871753284,
+    "addSerialNumberToName": false,
+    "registerInTerminalSystem": false,
+    "DimensionWarpType": 0,
+    "Shard": 2,
+    "inventorySlot": 8,
+    "FPSSettings": 36,
+    "crosshair": 0,
+    "HUDIcon": "",
+    "ShowCrosshairWhenAiming": false,
+    "GUIShowAmmoClip": false,
+    "GUIShowAmmoPack": false,
+    "GUIShowAmmoTotalRel": false,
+    "GUIShowAmmoInfinite": false,
+    "canMoveQuick": false,
+    "BlockToolAmmoRefill": false,
+    "ClassAmmoCostFactor": 1.0,
+    "ConsumableAmmoMin": 0,
+    "ConsumableAmmoMax": 0,
+    "audioEventEquip": "",
+    "FirstPersonPrefabs": [
+        "Assets/AssetPrefabs/Items/MiscPickups/SmallHSUEuippable_FirstPerson.prefab",
+        "Assets/AssetPrefabs/Items/MiscPickups/HSUSmall_FirstPerson_Stage_2.prefab"
+    ],
+    "ThirdPersonPrefabs": [
+        "Assets/AssetPrefabs/Items/MiscPickups/CarryItemGeneric_ThirdPerson.prefab",
+        "Assets/AssetPrefabs/Items/MiscPickups/HSUSmall_ThirdPerson_Stage_2.prefab"
+    ],
+    "PickupPrefabs": [
+        "Assets/AssetPrefabs/Items/MiscPickups/HSUSmall_Pickup_Stage_2.prefab"
+    ],
+    "InstancePrefabs": [],
+    "EquipTransitionTime": 0.5,
+    "AimTransitionTime": 0.5,
+    "FPSArmsAnim": "",
+    "ThirdPersonFullbodyMovementSet": 0,
+    "LeftHandGripAlign": "LeftHand",
+    "LeftHandGripAnim": "Generator_Cell",
+    "RightHandGripAlign": "RightHand",
+    "RightHandGripAnim": "Generator_Cell",
+    "SightLookAlign": "",
+    "MuzzleAlign": "",
+    "BackpackAlign": "",
+    "name": "Carry_HSU_Small_Stage_2",
+    "internalEnabled": true,
+    "persistentID": 141
+}

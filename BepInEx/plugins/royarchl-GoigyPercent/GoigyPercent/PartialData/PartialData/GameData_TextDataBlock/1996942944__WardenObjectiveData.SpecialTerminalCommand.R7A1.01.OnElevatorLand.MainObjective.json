@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Progress to [ZONE_6] to resuscitate the <color=#47D1A8>Goigy</color>",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Rendez-vous dans la [ZONE_6] pour réanimer le nouveau-né.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Procedere a [ZONE_6] per rianimare il Neonato",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Erreichen Sie [ZONE_6], um das Neugeborene zu reanimieren.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Avanza a la [ZONE_6] para reanimar al neonato.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Двигайтесь к [ZONE_6], чтобы оживить новорожденного.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Avance para a [ZONE_6] para ressuscitar o neonato",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Przejdź do strefy [ZONE_6], aby przeprowadzić reanimację noworodka",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "[ZONE_6]へ進み新生児を蘇生しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "[ZONE_6]로 이동해 신생아 소생",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "前往[ZONE_6]以復甦新生兒",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "前往[ZONE_6]以恢复新生儿",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.SpecialTerminalCommand.R7A1.01.OnElevatorLand.MainObjective",
+    "internalEnabled": true,
+    "persistentID": 1996942944
+}

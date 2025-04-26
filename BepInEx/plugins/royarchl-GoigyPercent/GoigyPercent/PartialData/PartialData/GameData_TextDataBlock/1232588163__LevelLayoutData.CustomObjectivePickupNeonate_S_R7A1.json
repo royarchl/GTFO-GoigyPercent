@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Pick up and carry <color=#47D1A8>Goigy</color> to the NCR station",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Apportez le <color=orange>nouveau-né</color> à la station NCR.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Raccogliere e portare il <color=orange>Neonato</color> alla stazione RCN.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Heben Sie das <color=orange>Neugeborene</color> auf und tragen Sie es zur NHR-Station.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Recoge al <color=orange>neonato</color> y llévalo a la estación de RCN.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Возьмите <color=orange>новорожденного</color> и отнесите его к нейрогенному кардиореаниматору.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Pegue e carregue o <color=orange>neonato</color> até a estação NCR",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zabierz <color=orange>noworodka</color> i zanieś go do stacji neurogennego resuscytatora sercowego",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "<color=orange>新生児</color>を拾い上げ、NCRステーションに運べ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "<color=orange>신생아</color>를 찾아 NCR 스테이션으로 운반",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "撿起<color=orange>新生兒</color>並帶到NCR站",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "拾取<color=orange>新生儿</color>并将其带到NCR站",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 3,
+    "ImportVersion": 3,
+    "name": "LevelLayoutData.CustomObjectivePickupNeonate_S_R7A1",
+    "internalEnabled": true,
+    "persistentID": 1232588163
+}

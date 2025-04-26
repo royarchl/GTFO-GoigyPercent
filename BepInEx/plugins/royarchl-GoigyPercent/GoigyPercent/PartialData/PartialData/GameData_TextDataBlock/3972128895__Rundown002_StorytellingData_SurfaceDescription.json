@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "[STATUS] OBJECTIVE STACK ITERATION 1.0. <color=red>CONDUIT STRATEGY INITIATED.</color=red> PRISONERS TO SECURE AND PREPARE <color=#47D1A8>GOIGY</color>.\n\nDESCENT AND EXPLORE UNTIL FURTHER NOTICE.\n\n[SUBJECT EVALUATION] ALL NEWLY AWOKEN PRISONERS SHOULD GO THROUGH <color=red>TRAINING & EVALUATION.</color=red>\n\n[BOOSTERS] BOOSTER MODULES WILL BE DISPENSED TO PRISONERS THAT <color=red>RETRIEVE ENCASED ARTIFACTS.</color=red> OBJECTIVE STACK UPDATED.",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "[STATUT] ITÉRATION DE LA LISTE D'OBJECTIFS 1.0. <color=red>STRATÉGIE DU CONDUIT INITIÉE.</color=red> LES PRISONNIERS DOIVENT SÉCURISER ET PRÉPARER LE HSU INFANTILE.\n\nDESCENDEZ ET EXPLOREZ JUSQU'À NOUVEL ORDRE.\n\n[ÉVALUATION DU SUJET] TOUT PRISONNIER NOUVELLEMENT RÉANIMÉ DOIT EFFECTUER <color=red>SON ÉVALUATION ET SON ENTRAÎNEMENT.</color=red>\n\n[BOOSTERS] DES MODULES DE BOOSTER SERONT DISTRIBUÉS AUX PRISONNIERS QUI PARVIENNENT À <color=red>RÉCUPÉRER DES ARTEFACTS PRIS DANS LE CRISTAL.</color=red> LISTE D’OBJECTIFS MISE À JOUR.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "[STATO] ITERAZIONE CODA OBIETTIVI 1.0. <color=red>AVVIATA STRATEGIA CONTATTO.</color=red> I PRIGIONIERI DEVONO RECUPERARE E PREPARARE HSU NEONATO.\n\nSCENDERE ED ESPLORARE FINO A NUOVO ORDINE.\n\n[VALUTAZIONE SOGGETTO] TUTTI I PRIGIONIERI APPENA SVEGLIATI DEVONO AFFRONTARE <color=red>ADDESTRAMENTO E VALUTAZIONE.</color=red>\n\n[POTENZIAMENTI] I MODULI DI POTENZIAMENTO SARANNO EROGATI AI PRIGIONIERI CHE <color=red>RECUPERANO MANUFATTI INCASTONATI.</color=red> CODA OBIETTIVI AGGIORNATA.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "[STATUS] ITERATION DES ZIEL-STACKS 1.0. <color=red>CONDUIT-STRATEGIE EINGELEITET.</color=red> GEFANGENE WERDEN ZUR SICHERUNG UND VORBEREITUNG DER NEONATALEN HSU EINGESETZT.\n\nBIS AUF WEITERES LAUTET DER AUFTRAG ABSTIEG UND ERKUNDUNG.\n\n[EVALUIERUNG DER VERSUCHSPERSON] ALLE NEU ERWACHTEN GEFANGENEN MÜSSEN <color=red>EIN TRAINING UND EINE EVALUATION</color=red> DURCHLAUFEN.\n\n[BOOSTER] BOOSTER-MODULE WERDEN AN GEFANGENE AUSGEGEBEN, DIE <color=red>UMMANTELTE ARTEFAKTE BERGEN</color=red>. ZIEL-STACK AKTUALISIERT.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "[ESTADO] REITERACIÓN DEL REGISTRO DE OBJETIVOS 1.0. <color=red>ESTRATEGIA DE CONDUCTO INICIADA.</color=red> LOS PRISIONEROS DEBEN ASEGURAR Y PREPARAR LA HSU NEONATAL.\n\nDESCENDER Y EXPLORAR HASTA PRÓXIMO AVISO.\n\n[EVALUACIÓN DE LOS SUJETOS] TODOS LOS PRISIONEROS RECIÉN DESPERTADOS DEBERÍAN SOMETERSE A <color=red>ENTRENAMIENTO Y EVALUACIÓN.</color=red>\n\n[POTENCIADORES] LOS MÓDULOS DE POTENCIADORES SE ENTREGARÁN A LOS PRISIONEROS QUE <color=red>RECUPEREN ARTEFACTOS REVESTIDOS.</color=red> ACTUALIZACIÓN DEL REGISTRO DE OBJETIVOS.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "[СТАТУС] НАЗНАЧЕНИЕ ЦЕЛИ 1.0. <color=red>ЗАДЕЙСТВОВАНА СТРАТЕГИЯ ПРОВОДНИКА.</color=red> ЗАКЛЮЧЕННЫЕ НАПРАВЛЕНЫ НА ПОИСК И ПОДГОТОВКУ НЕОНАТАЛЬНОГО HSU.\n\nСПУСК И ИЗУЧЕНИЕ МЕСТНОСТИ ДО ПОЛУЧЕНИЯ ДАЛЬНЕЙШИХ ИНСТРУКЦИЙ.\n\n[ОЦЕНКА СУБЪЕКТОВ] ВСЕ СВЕЖЕПРОБУЖДЕННЫЕ ЗАКЛЮЧЕННЫЕ ОБЯЗАНЫ ПРОЙТИ <color=red>ОБУЧЕНИЕ И ОЦЕНКУ.</color=red>\n\n[УСИЛИТЕЛИ] ЗАКЛЮЧЕННЫЕ, <color=red>КОТОРЫЕ ИЗВЛЕКУТ АРТЕФАКТЫ В КАПСУЛАХ</color=red>, ПОЛУЧАТ УСИЛИВАЮЩИЕ МОДУЛИ. ОПИСАНИЕ ЦЕЛИ ОБНОВЛЕНО.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "[STATUS] ITERAÇÃO DE CONJUNTO DE OBJETIVOS 1.0. <color=red>ESTRATÉGIA DE CONDUTO INICIADA.</color=red> PRISIONEIROS DEVEM PROTEGER E PREPARAR HSU NEONATO.\n\nDESÇA E EXPLORE ATÉ NOVO AVISO.\n\n[AVALIAÇÃO DE INDIVÍDUO] TODOS OS PRISIONEIROS DESPERTADOS RECENTEMENTE DEVEM PASSAR POR <color=red>TREINAMENTO E AVALIAÇÃO.</color=red>\n\n[IMPULSOS] MÓDULOS DE IMPULSO SÃO CONCEDIDOS A PRISIONEIROS QUE <color=red>RECUPERAM ARTEFATOS REVESTIDOS.</color=red> CONJUNTO DE OBJETIVOS ATUALIZADO.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "[STAN] POWTÓRZENIE STOSU CELÓW 1.0. <color=red> STRATEGIA PRZEKAŹNIKA ZAINICJOWANA.</color=red> WIĘŹNIOWIE MAJĄ ZABEZPIECZYĆ I PRZYGOTOWĄĆ JEDNOSTKĘ HYDROSTAZY NOWORODKA.\n\n KONTYNUOWAĆ ZEJŚCIE I EKSPLORACJĘ DO ODWOŁANIA.\n\n[OCENA BIORCY] NOWO WYBUDZENI WIĘŹNIOWIE POWINNI ZOSTAĆ PODDANI <color=red>SZKOLENIU I OCENIE.</color=red>\n\n[WZMACNIACZE] WIĘŹNIOM, KTÓRZY <color=red>ZDOBĘDĄ ARTEFAKTY W OBUDOWIE</color=red>, PRZYZNANE ZOSTANĄ WZMACNIACZE. ZAKTUALIZOWANO STOS CELÓW.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "[ステータス]目標蓄積反復1.0。<color=red>コンジット戦略開始。</color=red>囚人は新生児HSUを確保し準備しろ。\n\n次の通知があるまで降下と探索を続けろ。\n\n[対象の評価]新たに目覚めた囚人は全員、<color=red>訓練と評価</color=red>を受ける必要がある。\n\n[ブースター]<color=red>容器に入ったアーティファクトを回収した</color=red>囚人にはブースターモジュールが与えられる。目標蓄積更新。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "[상태] 목표 목록 반복 1.0. <color=red>도관 전략 가동.</color=red> 수감자는 신생아 HSU 확보 및 준비할 것.\n\n추후 통보가 있을 때까지 하강하고 탐색할 것.\n\n[대상 평가] 새로 각성한 수감자 전원 <color=red>훈련 및 평가</color=red> 거쳐야 함.\n\n[부스터] 부스터 모듈은 <color=red>수납된 아티팩트를 회수하는</color=red> 수감자에게 배포됨. 목표 목록 업데이트됨.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "[狀態]目標堆疊疊代1.0。<color=red>導管策略已啟動。</color=red>囚犯保護並準備新生HSU。\n\n下降探索，直至另行通知。\n\n[實驗對象評估]所有新喚醒的囚犯皆應進行<color=red>訓練與評估</color=red>。\n\n[強化劑]強化劑模組將分配給<color=red>取回包覆寶物</color=red>的囚犯。目標堆疊已更新。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "[状态]目标堆栈迭代1.0。<color=red>导管策略已发起。</color=red>囚犯获取并准备新生儿HSU。\n\n下降探索，直至另行通知。\n\n[实验体评估]所有新唤醒的囚犯均应通过<color=red>培训和评估</color=red>。\n\n[强化剂]强化剂模块将分发给<color=red>取回封装红晶</color=red>的囚犯。目标堆栈已更新。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 4,
+    "ImportVersion": 4,
+    "name": "Rundown002_StorytellingData_SurfaceDescription",
+    "internalEnabled": true,
+    "persistentID": 3972128895
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": true,
+    "MachineTranslation": false,
+    "English": "MADE BY <color=#E75A9C>R</color><color=#3DBFA6>O</color><color=#20558C>Y</color><color=#8F52D5>A</color><color=#00FF9A>R</color><color=#FCAD07>C</color><color=#FF0000>H</color><color=#FFFFFF>L</color>",
+    "Description": "A \"code-like\" text meant to indicate that the game's interface in reality is a visualization projected straight into the brain of the player character.",
+    "CharacterMetaData": 3,
+    "French": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "CORTEX INTERFACE ESTABLISHED",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.RundownPage.CortexInterface",
+    "internalEnabled": true,
+    "persistentID": 1
+}

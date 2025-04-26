@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "HydroStasis Depressurizer(DPR) needed to access resuscitated <color=#47D1A8>Goigy</color>.\r\nPrisoners used to find a DPR unit and depressurize <color=#47D1A8>Goigy</color>.\r\n",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Dépresseur hydrostatique [DPR] requis pour accéder au HSU infantile. Les prisonniers doivent trouver une unité DPR fonctionnelle et dépressuriser la HSU infantile.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Depressurizzatore idrostatico [HydroStasis Depressurizer] [DPR] necessario per accedere ai contenuti dell'HSU Neonato. I prigionieri devono trovare l'unità DPR funzionante e depressurizzare l'HSU Neonato.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Hydrostasis-Druckregler [DRR] erforderlich, um Zugang zum Inhalt der neugeborenen HSU-Einheit zu erhalten. Die Gefangenen sollen eine funktionierende DRR-Einheit lokalisieren und den Druck in der HSU-Einheit anpassen.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Se necesita el despresurizador de hidroletargo [DPH] [HydroStasis Depressurizer] [DPR] para acceder a los contenidos de la HSU neonatal. Los prisioneros deben encontrar la unidad del DPH y despresurizar la HSU neonatal.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Для доступа к содержимому HSU с новорожденным требуется стазисный депрессор [DPR]. Заключенным поручено найти действующий депрессор и разгерметизировать HSU с новорожденным.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Despressurizador de hidroestase [DPR] solicitou acesso ao conteúdo do HSU neonato. Prisioneiros devem localizar unidade de DPR funcional e despressurizar HSU neonato.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Wymagany depresator hydrostazy [DPR] w celu uzyskania dostępu do jednostki hydrostazy noworodka. Więźniowie mają zlokalizować sprawną jednostkę DPR i rozhermetyzować jednostkę hydrostazy noworodka.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ハイドロスタシス降圧器[DPR]の新生児HSU内容へのアクセスが必要。囚人は機能しているDPRユニットを見つけ、新生児HSUを降圧しろ。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 HSU 내용물에 액세스하려면 수분식 생체 정지 감압기[DPR] 필요. 수감자는 작동하는 DPR 장치를 찾고 신생아 HSU를 감압할 것.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "存取新生兒HSU內容需要靜液減壓器[DPR]。囚犯定位功能性DPR裝置並將新生兒HSU減壓。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "需要流体静力减压器[DPR]来访问新生儿HSU内容。囚犯派去定位可用的DPR装置并给新生儿HSU减压。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "Rundown003_B2_ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 1007400837
+}

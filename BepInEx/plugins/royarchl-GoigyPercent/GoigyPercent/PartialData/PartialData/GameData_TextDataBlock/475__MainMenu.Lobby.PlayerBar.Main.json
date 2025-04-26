@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "",
+    "Description": "Refers to the player's main weapon.",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "PRINCIPALE\u00A0:",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "PRINCIPALE:",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "PRIMÄR:",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "PRINCIPAL:",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "ОСНОВНОЕ:",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "PRINCIPAL:",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "GŁÓWNA:",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "メイン:",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "기본:",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "主要：",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "主：",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.Lobby.PlayerBar.Main",
+    "internalEnabled": true,
+    "persistentID": 475
+}

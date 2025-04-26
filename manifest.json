@@ -1,0 +1,9 @@
+{
+    "name": "GoigyPercent",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/royarchl/GTFO-GoigyPercent",
+    "description": "A custom rundown for an unofficial speedrun category.",
+    "dependencies": [
+        "royarchl-GoigyArsenal-1.1.0"
+    ]
+}

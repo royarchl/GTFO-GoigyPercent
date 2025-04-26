@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=red>GAIBY</color>",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "UNITÉ D’HYDROSTASE NOUVEAU-NÉ",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "UNITÀ IDROSTATICA NEONATO",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "NEUGEBORENEN-HYDROSTAT-EINHEIT",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "UNIDAD DE HIDROLETARGO NEONATAL",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "СТАЗИС-МОДУЛЬ С НОВОРОЖДЕННЫМ",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "UNIDADE DE HIDROESTASE DE NEONATO",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "JEDNOSTKA HYDROSTAZY NOWORODKA",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児ハイドロスタシスユニット",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 수정 역학 유닛",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒靜液裝置",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿流体静力单元",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "ItemData.TerminalLongName.Carry_HSU_Small",
+    "internalEnabled": true,
+    "persistentID": 2871753284
+}

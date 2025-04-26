@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Resuscitate <color=#47D1A8>Goigy</color>",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Réanimez l'HSU infantile.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Rianimare HSU Neonato",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Reanimieren Sie die neugeborene HSU-Einheit.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Reanima al neonato de la HSU.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Оживите HSU с новорожденным",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Ressuscite o HSU neonato",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Przeprowadź reanimację noworodka HSU",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児HSUを蘇生",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 HSU 소생",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "復甦新生兒HSU",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "恢复新生儿HSU",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Header",
+    "internalEnabled": true,
+    "persistentID": 3323767644
+}

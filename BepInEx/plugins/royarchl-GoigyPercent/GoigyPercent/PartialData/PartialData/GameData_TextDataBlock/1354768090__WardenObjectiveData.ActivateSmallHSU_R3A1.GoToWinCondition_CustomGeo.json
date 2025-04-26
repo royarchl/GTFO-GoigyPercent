@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Put <color=#47D1A8>Goigy</color> in the extraction scan [EXTRACTION_ZONE]",
+    "Description": "Don't translate [EXTRACTION_ZONE]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Placez le nouveau-né sur le scanner d'évacuation de la [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Mettere il Neonato nella scansione di estrazione [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Platzieren Sie das Neugeborene im Extraktionsscan in [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Coloca al neonato en el escáner de extracción de la [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите новорожденного в сканер извлечения в [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Coloque o neonato no escâner de extração na [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Umieść noworodka w skanerze punktu ewakuacyjnego [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児を脱出スキャン[EXTRACTION_ZONE]に入れろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아를 [EXTRACTION_ZONE]의 탈출 스캔에 놓기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒放入[EXTRACTION_ZONE]的撤離掃描點",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿放到[EXTRACTION_ZONE]的撤离扫描中",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.ActivateSmallHSU_R3A1.GoToWinCondition_CustomGeo",
+    "internalEnabled": true,
+    "persistentID": 1354768090
+}

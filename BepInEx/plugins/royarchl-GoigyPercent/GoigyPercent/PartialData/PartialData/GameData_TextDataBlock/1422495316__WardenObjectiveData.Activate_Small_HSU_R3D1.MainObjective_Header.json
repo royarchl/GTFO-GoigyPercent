@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Secure <color=#FFA500>Ascended Goigy</color> to the nFrame interface",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Sécurisez le nouveau-né empreint dans l'interface nFrame [nFrame]",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Assicurare il Neonato con imprinting all'interfaccia nFrame.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Fixieren Sie das geprägte Neugeborene an der nFrame-Schnittstelle [nFrame].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Inserta el neonato marcado en la interfaz del sNeural [nFrame].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите новорожденного с отпечатком в нейронный терминал [NFRAME].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Proteja com neonato impresso na interface [nFrame]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Podepnij noworodka po imprintingu do złącza układu neuronowego [nFrame]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "インプリントされた新生児を、nFrameインターフェースに固定しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "각인된 신생아를 신경 프레임[nFrame] 인터페이스에 고정",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將印記新生兒固定到神經主機[nFrame]介面",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将印记的新生儿置入神经框架[nFrame]界面",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3D1.MainObjective_Header",
+    "internalEnabled": true,
+    "persistentID": 1422495316
+}

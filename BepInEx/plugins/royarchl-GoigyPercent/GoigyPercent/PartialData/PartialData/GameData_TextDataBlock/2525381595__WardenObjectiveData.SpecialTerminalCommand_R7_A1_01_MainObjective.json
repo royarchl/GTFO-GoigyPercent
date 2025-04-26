@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Bring <color=#47D1A8>Goigy</color> to the Neurogenic Cardiac Resuscitationer and resuscitate him.",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Amenez le nouveau-né <color=orange>NFRAME_Z09</color> au réanimateur cardiaque neurogène pour le réanimer.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Portare il Neonato <color=orange>NFRAME_Z09</color> al rianimatore cardiaco neurogeno e rianimarlo",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Bringen Sie das Neugeborene <color=orange>NFRAME_Z09</color> zumneurogenen Herzreanimator und reanimieren Sie es.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Lleva al neonato <color=orange>NFRAME_Z09</color> al reanimador cardíaco neurogénico y reanímalo.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Доставьте новорожденного <color=orange>NFRAME_Z09</color> к нейрогенному кардиореаниматору и оживите его.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Traga o <color=orange>NFRAME_Z09</color> neonato para o Ressuscitador Cardíaco Neurogênico e ressuscite-o",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zanieś noworodka <color=orange>NFRAME_Z09</color> do neurogennego resuscytatora sercowego i przeprowadź reanimację",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児<color=orange>NFRAME_Z09</color>を神経心臓蘇生装置に運び蘇生しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 <color=orange>NFRAME_Z09</color>를 신경 심장 소생기에서 소생시키기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒<color=orange>NFRAME_Z09</color>帶到神經性心臟復甦器並將其復甦",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿<color=orange>NFRAME_Z09</color>带到神经源性心脏复苏器并使其恢复",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 7,
+    "ImportVersion": 7,
+    "name": "WardenObjectiveData.SpecialTerminalCommand_R7_A1_01_MainObjective",
+    "internalEnabled": true,
+    "persistentID": 2525381595
+}

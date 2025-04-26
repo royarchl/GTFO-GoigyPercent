@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Rundown Protocol 2.0 completed. Access from section R2E1 established.\n\r<color=#47D1A8>Goigy</color> in hydro stasis. \nNeurogenic Cardiac Resuscitation (NCR) needed.\r \n",
+    "Description": "Don't translate R2E1 (it means rundown 2, tier e, level 1).",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Protocole de campagne 2.0 terminé. Accès de la section\u00A0R2E1 établi. Nouveau-né en hydrostase confirmé. Réanimation cardiaque neurogène [RCN] requise.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Protocollo Perlustrazione 2.0 completato. Stabilito accesso dalla sezione R2E1. Neonato confermato in idrostasi. Richiesta rianimazione cardiaco neurogena [RCN].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Rundown-Protokoll 2.0 abgeschlossen. Zugang von Sektion [R2E1] hergestellt. Neugeborenes in Hydrostasis bestätigt. Neurogene Herzreanimation [NHR] erforderlich.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Protocolo de campaña 2.0 completado. Acceso desde la sección R2E1 establecido. Neonato confirmado en hidroletargo. Se necesita el reanimador cardíaco neurogénico [RCN].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Протокол кампании №\u00A02.0 завершен. Доступ из секции R2E1 открыт. Новорожденный в состоянии гидростаза. Требуется нейрогенный кардиореаниматор [NCR].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Protocolo de Campanha 2.0 concluído. Acesso à seção R2E1 estabelecido. Neonato confirmado em hidroestase. Ressuscitador cardíaco neurogênico [NCR] necessário.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Protokół ekstrakcji 2.0 zakończony. Ustanowiono dostęp z sekcji R2E1. Noworodek w hydrostazie potwierdzony. Wymagana neurogenna resuscytacja sercowa [NCR].",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ランダウンプロトコル2.0完了。セクションR2E1からのアクセス確立。新生児はハイドロスタシスであることが確認された。神経心臓蘇生[NCR]が必要。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "런다운 프로토콜 2.0 완료. 섹션 R2E1로부터의 접근 설정됨. 수분식 생체 정지 상태의 신생아 확인됨.신경성 심장 소생술[NCR] 필요.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "遠征綱要協定2.0已完成。已建立從R2E1區段的存取。新生兒證實處於靜液狀態。需要進行神經性心臟復甦[NCR]。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "行动协议2.0已完成。R2E1区访问权限已确立。新生儿确认处于流体静力状态。需要神经源性心脏复苏器[NCR]。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "Rundown003_A1_ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 1464459331
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Insert <color=#47D1A8>Goigy</color> into HydroStasis Depressurizer",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Insérez le <color=orange>nouveau-né</color> dans le dépressurisateur d’hydrostaste.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Inserire il <color=orange>Neonato</color> nel Depressurizzatore idrostatico.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Legen Sie das <color=orange>Neugeborene</color> in den Hydrostasis-Druckregler.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Inserta al <color=orange>neonato</color> en el despresurizador de hidroletargo.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите <color=orange>новорожденного</color> в стазисный депрессор.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Coloque o <color=orange>neonato</color> dentro do despressurizador de hidroestase",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Umieść <color=orange>noworodka</color> w depresatorze hydrostazy",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "<color=orange>新生児</color>をハイドロスタシス降圧器に入れろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "<color=orange>신생아</color>를 수분식 생체 정지 감압기에 넣기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將<color=orange>新生兒</color>置入靜液裝置減壓器",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将<color=orange>新生儿</color>放入流体静力减压器",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.InsertNeo_R7B1",
+    "internalEnabled": true,
+    "persistentID": 964340279
+}

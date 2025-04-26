@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Deliver <color=#47D1A8>Goigy</color> to <color=orange>Zone 194</color> for preparation sequence.",
+    "Description": "",
+    "CharacterMetaData": 2,
+    "French": {
+        "Translation": "Apporter le HSU nouveau-né dans la <color=orange>zone\u00A0194</color> pour réaliser la séquence de préparation.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Consegnare l'HSU Neonato alla <color=orange>ZONE 194</color> per la sequenza di preparazione.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Liefern Sie die neugeborene HSU-Einheit für die Vorbereitungssequenz nach <color=orange>Zone 194</color>.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Lleva la HSU neonatal a la <color=orange>Zone 194</color> para iniciar la secuencia de preparación.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Доставьте неонатальный HSU в <color=orange>зону 194</color> для подготовки к циклу.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Entregue o HSU neonato na <color=orange>Zone 194</color> para a sequência de preparação.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Dostarcz jednostkę hydrostazy noworodka do <color=orange>strefy 194 [ZONE_194]</color> w celu podjęcia sekwencji przygotowawczej.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "準備シークエンスのため、新生児HSUを<color=orange>Zone 194</color>へ運べ。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "절차 준비를 위해 신생아의 HSU를 <color=orange>ZONE 194</color>로 운송할 것.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生HSU送到<color=orange>Zone 194</color>以進行準備序列。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿HSU送到<color=orange>ZONE 194</color>进行准备序列。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 3,
+    "ImportVersion": 3,
+    "name": "WardenObjectiveData.TimedTerminal_Main_R7D1",
+    "internalEnabled": true,
+    "persistentID": 3124910704
+}

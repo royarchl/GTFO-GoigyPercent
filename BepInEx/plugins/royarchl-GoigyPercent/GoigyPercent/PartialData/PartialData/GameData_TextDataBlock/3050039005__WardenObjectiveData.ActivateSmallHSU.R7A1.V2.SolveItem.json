@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Insert <color=#47D1A8>Goigy</color> into Neurogenic Cardiac Resuscitationer [ITEM_SERIAL]",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Insérez le nouveau-né dans le réanimateur cardiaque neurogène [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Inserire il Neonato nel rianimatore cardiaco neurogeno [ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Legen Sie das Neugeborene in den neurogenen Herzreanimator [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Inserta el neonato en el reanimador cardíaco neurogénico [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите новорожденного в нейрогенный кардиореаниматор [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Insira o neonato dentro do Ressuscitador Cardíaco Neurogênico [ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Umieść noworodka w neurogennym resuscytatorze sercowym [ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児を神経心臓蘇生装置の中に入れろ[ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아를 신경 심장 소생기 [ITEM_SERIAL]에 넣기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒放入神經性心臟復甦器[ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿放入神经源性心脏复苏器[ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.V2.SolveItem",
+    "internalEnabled": true,
+    "persistentID": 3050039005
+}

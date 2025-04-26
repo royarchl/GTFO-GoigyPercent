@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Bring <color=#47D1A8>Goigy</color> to the Neurogenic Cardiac Resuscitator and resuscitate him.",
+    "Description": "Don't translate [ITEM_SERIAL]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Amenez le nouveau-né au réanimateur cardiaque neurogène pour le réanimer.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Portare il Neonato al rianimatore cardiaco neurogeno [Neurogenic Cardiac Resuscitationer] e rianimarlo.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Bringen Sie das Neugeborene zum neurogenen Herzreanimator [Neurogenic Cardiac Resuscitationer] und reanimieren Sie es.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Lleva al neonato al reanimador cardíaco neurogénico y reanímalo.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Доставьте новорожденного к нейрогенному кардиореаниматору [NCR] и оживите его.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Traga o neonato para o Ressuscitador Cardíaco Neurogênico e ressuscite-o.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zanieś noworodka do neurogennego resuscytatora sercowego i przeprowadź reanimację.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児を神経心臓蘇生装置[ITEM_SERIAL][Neurogenic Cardiac Resuscitator]に運び、蘇生しろ。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아를 신경 심장 소생기에서 소생시키기.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒帶到神經性心臟復甦器[Neurogenic_Cardiac_Resuscitator]並將其復甦。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿带到神经源性心脏复苏器[Neurogenic_Cardiac_Resuscitator]并使其恢复。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.ActivateSmallHSU_R3A1.MainObjective_MainObjective",
+    "internalEnabled": true,
+    "persistentID": 3244114706
+}

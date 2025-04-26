@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "",
+    "Description": "Refers to the player's tool. These are not carpenter tools like hammers and monkey wrenches, but andvanced gadgets like motion trackers, sentry guns or mine deployers.",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "OUTIL\u00A0:",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "STRUMENTO:",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "WERKZEUG:",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "HERRAMIENTA:",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "УСТРОЙСТВО:",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "FERRAMENTA:",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "NARZĘDZIE:",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ツール:",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "도구:",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "工具：",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "工具：",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.Lobby.PlayerBar.Tool",
+    "internalEnabled": true,
+    "persistentID": 477
+}

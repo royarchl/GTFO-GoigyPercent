@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Return the <b><color=#47D1A8>Goigy</color></b> to the extraction point in [EXTRACTION_ZONE]",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Ramenez le <b>nouveau-né</b> au point d'évacuation dans la [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Riportare il <b>Neonato</b> al punto di estrazione in [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Bringen Sie das <b>Neugeborene</b> zum Extraktionspunkt in [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Lleva el <b>neonato</b> al punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Отнесите <b>новорожденного</b> к точке выхода в [EXTRACTION_ZONE].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Devolva o <b>neonato</b> ao ponto de extração na [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Przenieś <b>noworodka</b> do punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "<b>新生児</b>を[EXTRACTION_ZONE]の脱出地点に返却しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "<b>신생아</b>를 [EXTRACTION_ZONE]의 탈출 지점으로 반환",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將<b>新生兒</b>帶回[EXTRACTION_ZONE]的撤離點",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将<b>新生儿</b>送回[EXTRACTION_ZONE]的撤离点",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.RetrieveEssentialItems_1_Cargo_R4D2_L3.GoToWinCondition_CustomGeo",
+    "internalEnabled": true,
+    "persistentID": 2459795051
+}

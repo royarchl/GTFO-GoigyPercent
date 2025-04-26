@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "SAVE THE BABY",
+    "Description": "\"Rundown\" is GTFO's term for \"campaign\", i.e. a set of expeditions/missions. \"Connect to Rundown\" is like saying \"access mission selection menu\", but in the game's own way of expressing things.",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "CONNEXION À LA CAMPAGNE",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "CONNETTITI ALLA PERLUSTRAZIONE",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "MIT RUNDOWN VERBINDEN",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "CONECTAR CON CAMPAÑA",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "ПОДКЛЮЧИТЬСЯ К КАМПАНИИ",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "CONECTAR À CAMPANHA",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "POŁĄCZ Z EKSTRAKCJĄ",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ランダウンに接続",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "런다운에 연결",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "連線到遠征綱要",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "连接行动",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.RundownPage.ConnectButton",
+    "internalEnabled": true,
+    "persistentID": 2
+}

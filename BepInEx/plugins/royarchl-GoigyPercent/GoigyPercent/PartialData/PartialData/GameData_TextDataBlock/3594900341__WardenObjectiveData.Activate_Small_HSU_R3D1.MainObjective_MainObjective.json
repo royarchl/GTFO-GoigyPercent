@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Bring <color=#FFA500>Ascended Goigy</color> to Neural Frame [ITEM_SERIAL] and retrieve its data",
+    "Description": "Don't translate [ITEM_SERIAL]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Apportez le nouveau-né empreint dans l'interface neurale [Neurogenic Cardiac Resuscitationer] [ITEM_SERIAL] et récupérez ses données",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Portare il Neonato con imprinting al Frame neurale [Neural Frame] [ITEM_SERIAL] e recuperarne i dati.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Bringen Sie das geprägte Neugeborene zum neuronalen Frame [ITEM_SERIAL] und rufen Sie seine Daten ab.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Trae el neonato marcado al sistema neural [ITEM_SERIAL] y recupera sus datos.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Доставьте новорожденного с отпечатком к нейронному терминалу [ITEM_SERIAL] [NFRAME] и извлеките данные.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Traga o neonato impresso até o frame neural [ITEM_SERIAL] e recupere seus dados",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zanieś noworodka po imprintingu do układu neuronowego [ITEM_SERIAL] i uzyskaj z niego dane",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "インプリントされた新生児をニューラルフレーム[ITEM_SERIAL]に運び、そのデータを回収しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "각인된 신생아를 신경 프레임[ITEM_SERIAL]으로 데려와 데이터 추출",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將印記新生兒帶到神經主機[nFrame][ITEM_SERIAL]並擷取資料",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将印记的新生儿置入神经框架[ITEM_SERIAL]并取回数据",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3D1.MainObjective_MainObjective",
+    "internalEnabled": true,
+    "persistentID": 3594900341
+}

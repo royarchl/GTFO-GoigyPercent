@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Insert <color=#47D1A8>Goigy</color> into HydroStasis Depressurizer [ITEM_SERIAL]",
+    "Description": "Don't translate [ITEM_SERIAL]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Insérez le nouveau-né dans le dépressurisateur d'hydrostaste [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Inserire il Neonato nel Depressurizzatore idrostatico [HydroStasis Depressurizer] [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Legen Sie das Neugeborene in den Hydrostasis-Druckregler [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Inserta al neonato en el despresurizador de hidroletargo [HydroStasis Depressurizer] [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите новорожденного в стазисный депрессор [ITEM_SERIAL] [DPR].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Coloque o neonato dentro dodespressurizador de hidroestase [HydroStasis Depressurizer] [ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Umieść noworodka w depresatorze hydrostazy [ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児をハイドロスタシス降圧器[ITEM_SERIAL]に入れろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아를 수분식 생체 정지 감압기[DPR][ITEM_SERIAL]에 넣기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒置入靜液減壓器[ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将新生儿放入流体静力减压器[ITEM_SERIAL]",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3B2.SolveItem",
+    "internalEnabled": true,
+    "persistentID": 3112995758
+}

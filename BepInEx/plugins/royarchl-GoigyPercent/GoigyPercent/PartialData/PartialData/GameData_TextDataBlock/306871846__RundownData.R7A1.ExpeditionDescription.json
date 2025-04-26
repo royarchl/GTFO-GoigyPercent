@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color> requires resuscitation. Collateral resource loss acceptable.",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Réanimation du contenu de la HSU infantile nécessaire. Perte de ressources collatérales acceptable.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "I contenuti dell'HSU Neonato richiedono la rianimazione. Perdita di risorse collaterali accettabile.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Neugeborene HSU-Einheit erfordert Reanimation. Kollateraler Ressourcenverlust akzeptabel.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "El contenido de la HSU neonatal requiere reanimación. Pérdida de recursos colateral aceptable.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Содержимое HSU с новорожденным необходимо оживить. Сопутствующая потеря ресурсов считается приемлемой.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Conteúdos HSU neonatos requerem ressuscitação. Perda de recurso colateral aceitável.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zawartość noworodka HSU wymaga resuscytacji. Dopuszczalne straty w zasobach pobocznych.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児HSUコンテンツには蘇生が必要。付加資源の損失は許容範囲内だ。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 HSU 내용물 소생 필요. 부수적 자원 손실 허용.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒HSU內容需要復甦。可接受連帶資源損失。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿HSU内容需要恢复。可接受附带资源损失。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "RundownData.R7A1.ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 306871846
+}

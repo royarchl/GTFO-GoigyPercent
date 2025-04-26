@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "RISE equipment triangulation completed. Prisoners dispatched to retrieve <color=#47D1A8>Goigy</color>.",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Triangulation de l'équipement RISE terminée. Les prisonniers ont été envoyés pour récupérer le nouveau-né.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Triangolazione equipaggiamento SALITA completata. Prigionieri inviati a recuperare Neonato.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Triangulation der Ausrüstung für RISE abgeschlossen. Gefangene entsandt, um Neugeborenes zu holen.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Se ha completado la triangulación de equipo de DESPERTAR. Prisioneros enviados para recuperar al neonato.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Триангуляция оборудования RISE завершена. Заключенным приказано извлечь новорожденного.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Triangulação de equipamentos RISE concluída. Prisioneiros enviados para recuperar neonato.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Ukończono wyposażenia POWSTANIA. Więźniowie wysłani w celu zdobycia noworodka. ",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "RISE装備三角測量完了。新生児回収のため、囚人が派遣された。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "RISE 장비 삼각 측량 완료. 신생아 확보를 위해 수감자 배치됨. ",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "復甦裝備三角測量完成。已派遣囚犯取回新生兒。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "升起装备三角测量已完成。囚犯派去取回新生儿。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "Rundown002_E1_ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 2406007578
+}

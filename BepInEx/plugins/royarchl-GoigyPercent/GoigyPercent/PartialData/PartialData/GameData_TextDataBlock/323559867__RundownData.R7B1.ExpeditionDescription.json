@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color> phase two initiated.\nPrisoners dispatched to deliver <color=#47D1A8>Goigy</color> to the depressurization chamber.",
+    "Description": "Explaining the objective of the expedition",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Début de la phase deux du nouveau-né.\nPrisonniers déployés pour transporter le nouveau-né jusqu’à la chambre de dépressurisation.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Fase due del Neonato iniziata.\nPrigionieri inviati a consegnare il Neonato alla camera di depressurizzazione.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Phase zwei für Neugeborenes eingeleitet.\nGefangene entsandt, um das Neugeborene in die Dekompressionskammer zu bringen.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Iniciada fase neonatal dos.\nPrisioneros destinados a trasladar al neonato a la cámara de despresurización.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Инициирована вторая фаза новорожденного.\nЗаключенным приказано доставить новорожденного в камеру разгерметизации.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Fase neonata dois iniciada.\nPrisioneiros despachados para entregar o neonato à câmara de despressurização.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Zainicjowano fazę drugą noworodka.\nWięźniowie zostali wysłani w celu dostarczenia noworodka do komory dekompresyjnej.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児フェーズ2開始。\n囚人たちは新生児を減圧室に運ぶために派遣された。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 2단계 시작됨.\n수감자 신생아 감압실 운송에 배치됨.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒第二階段已啟動。\n已派出囚犯將新生兒送往減壓室。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿第二阶段已启动。\n派囚犯去将新生儿送到降压室。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 5,
+    "ImportVersion": 5,
+    "name": "RundownData.R7B1.ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 323559867
+}

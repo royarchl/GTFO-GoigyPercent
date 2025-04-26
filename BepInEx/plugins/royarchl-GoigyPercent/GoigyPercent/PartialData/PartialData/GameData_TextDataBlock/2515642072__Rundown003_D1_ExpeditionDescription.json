@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#FFA500>Ascended Goigy</color> needs to be secured and connected to the Neural Frame (nFrame).\r\nPrisoners <color=red>::ERR ###\r</color>\n",
+    "Description": "Don't translate the text in between the \"<>\" tags.\r",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Empreinte du nouveau-né réussie. Les prisonniers doivent récupérer l'objet et se connecter au cadre neural [nFrame].\r\nLes prisonniers <color=red>::ERR ####\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Imprinting Neonato riuscito. I prigionieri devono proteggere la risorsa e connettersi al Frame neurale [nFrame].\r\nPrigionieri <color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Prägung des Neugeborenen erfolgreich. Die Gefangenen sollen die Ressource sichern und mit dem neuronalen Frame [nFrame] verbinden.\r\nGefangene <color=red>::FEH ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Marca de neonato realizada correctamente. Los prisioneros tienen que asegurar el recurso y conectarse al sistema neural [nFrame].\r\nPrisioneros <color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Отпечаток новорожденного получен. Заключенным поручено обеспечить защиту данных и подключиться к нейронному терминалу [NFRAME].\r\nЗаключенные <color=red>::ОШИБ ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Sucesso na impressão de neonato. Prisioneiros devem assegurar ativo e conectar Frame Neural [nFrame].\r\nPrisioneiros <color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Imprinting noworodka zakończony pomyślnie. Więźniowie mają zabezpieczyć zasób i podłączyć go do układu neuronowego [nFrame].\r\nWięźniowie <color=red>::BŁĄ ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児インプリント成功。囚人はアセットを確実にし、ニューラルフレーム[nFrame]に入れろ。\r\n囚人 <color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 각인 성공. 수감자는 자산을 확보하고 신경 프레임[nFrame]에 연결할 것.\r\n수감자 <color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒印記成功。囚犯保護資產並連線到神經主機[nFrame]。\r\n囚犯<color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿印记成功。囚犯派去获取资源并连接到神经框架[nFrame]。\r\n囚犯<color=red>::ERR ###\r</color>\n",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "Rundown003_D1_ExpeditionDescription",
+    "internalEnabled": true,
+    "persistentID": 2515642072
+}

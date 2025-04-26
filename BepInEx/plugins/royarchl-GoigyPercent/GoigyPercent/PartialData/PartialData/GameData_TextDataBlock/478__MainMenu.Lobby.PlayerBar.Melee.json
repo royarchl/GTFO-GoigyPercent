@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "",
+    "Description": "Refers to the players melee weapon.",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "MÊLÉE\u00A0:",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "MISCHIA:",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "NAHKAMPF:",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "CUERPO A CUERPO:",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "БЛИЖНИЙ БОЙ:",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "GOLPE:",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "BIAŁA:",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "近接:",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "근접:",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "近戰：",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "近战：",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.Lobby.PlayerBar.Melee",
+    "internalEnabled": true,
+    "persistentID": 478
+}

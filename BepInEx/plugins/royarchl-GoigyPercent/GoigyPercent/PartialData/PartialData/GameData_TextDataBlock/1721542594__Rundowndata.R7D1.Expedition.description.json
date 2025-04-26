@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color> qualified for final phase initialization. Expendable prisoners sent to transport vessel to Preparation site.",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Nouveau-né qualifié pour initialisation de phase finale. Prisonniers sans importance envoyés pour transporter le réceptacle jusqu’au site de préparation.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Neonato qualificato per l'inizializzazione della fase finale. Prigionieri sacrificabili inviati per trasportare il recipiente al sito di preparazione.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Neugeborenes für Initialisierung der letzten Phase qualifiziert. Entbehrliche Gefangene werden mit Transportschiff zur Vorbereitungsstätte geschickt.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Neonato cualificado para inicializar fase final. Prisioneros prescindibles destinados a la nave de transporte rumbo a las instalaciones de preparación.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Новорожденный признан пригодным для финальной фазы. Не представляющим ценности заключенным приказано прибыть к транспортнику на площадке подготовки.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Neonato qualificado para inicialização de fase final. Prisioneiros dispensáveis enviados para o reservatório de transporte até a área de preparo.",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Noworodek zakwalifikowany do fazy końcowej inicjalizacji. Zbędni więźniowie wysłani na jednostkę transportową do punktu przygotowawczego.",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "最終フェーズ初期化用に新生児が資格を得た。器を準備地点に運ぶために使い捨て囚人たちが派遣された。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 최종 단계에 적합. 용기를 준비 현장에 운반하기 위해 소모성 수감자 배치됨.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒符合最終階段初始化過程。已派出可消耗的囚犯將容器轉移至準備地點。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿可进行最终阶段初始化。消耗型囚犯派去将容器运到准备场地。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "Rundowndata.R7D1.Expedition.description",
+    "internalEnabled": true,
+    "persistentID": 1721542594
+}

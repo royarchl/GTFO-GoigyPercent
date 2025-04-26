@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Depressurise <color=#47D1A8>Goigy</color>",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Dépressurisez la HSU infantile",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Depressurizzare HSU Neonato",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Regeln Sie den Druck der neugeborenen HSU-Einheit.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Despresuriza a la HSU neonatal.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Разгерметизируйте HSU с новорожденным",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Despressurize o HSU neonato",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Rozhermetyzuj jednostkę hydrostazy",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児HSUを降圧しろ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 HSU 감압",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將新生兒HSU減壓",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "给新生儿HSU减压",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3B2.MainObjective_Header",
+    "internalEnabled": true,
+    "persistentID": 3999356394
+}

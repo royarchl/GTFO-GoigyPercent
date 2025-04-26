@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Free <color=#47D1A8>Goigy</color> at a Hydrostasis Depressurizer",
+    "Description": "main objective of Expedition",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Ouvrez la HSU infantile à un dépressurisateur d’hydrostase",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Aprire l'HSU Neonato in un Depressurizzatore idrostatico.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Öffnen Sie die neugeborene HSU-Einheit mit einem Hydrostasis-Druckregler.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Abre la HSU neonatal en un despresurizador de hidroletargo.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Откройте HSU с новорожденным в стазисном депрессоре.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Abra o HSU neonato no despressurizador de hidroestase",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Otwórz HSU noworodka w depresatorze hydrostazy",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "ハイドロスタシス降圧器で新生児HSUを開け",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "수분식 생체 정지 감압기에서 신생아 HSU 열기",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "打開靜液裝置減壓器的新生兒HSU",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "在一台流体静力减压器上打开新生儿HSU",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.MainObjective_R7B1",
+    "internalEnabled": true,
+    "persistentID": 594616644
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color Resuscitation",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Réanimation de nouveau-né",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Rianimazione Neonato",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Reanimation des Neugeborenen",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Reanimación de neonato",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Оживление новорожденного",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Ressuscitação de neonato",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Reanimacja noworodka",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児蘇生",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 소생",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生兒復甦",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿恢复",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.SpecialTerminalCommand.R7A1.01.OnElevatorLand.Header",
+    "internalEnabled": true,
+    "persistentID": 1061585298
+}

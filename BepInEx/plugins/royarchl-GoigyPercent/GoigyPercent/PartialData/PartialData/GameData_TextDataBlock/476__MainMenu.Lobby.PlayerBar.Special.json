@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "",
+    "Description": "Refers to the players \"special\" (secondary) weapon. The \"special\" weapon is often more powerful but it's difficult to find ammunition for it so you can't always rely on it.",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "SPÉCIALE\u00A0:",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "SPECIALE:",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "SPEZIAL:",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "ESPECIAL:",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "ОСОБОЕ:",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "ESPECIAL:",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "SPECJALNA:",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "特殊武器:",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "특수:",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "特殊：",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "特殊：",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 1,
+    "ImportVersion": 1,
+    "name": "MainMenu.Lobby.PlayerBar.Special",
+    "internalEnabled": true,
+    "persistentID": 476
+}

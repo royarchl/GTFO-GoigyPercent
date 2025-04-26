@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Insert the <color=#FFA500>Ascended Goigy</color> into [ITEM_SERIAL].",
+    "Description": "Don't translate [ITEM_SERIAL]",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Insérez le nouveau-né empreint dans l'interface neurale [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Inserire il Neonato con imprinting in [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Legen Sie das geprägte Neugeborene in [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Inserta al neonato marcado en [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Поместите новорожденного с отпечатком в [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Insira o neonato impresso dentro de [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Umieść noworodka po imprintingu w: [ITEM_SERIAL].",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "インプリントされた新生児を[ITEM_SERIAL]に入れろ。",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "각인된 신생아를 [ITEM_SERIAL]에 넣기.",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "將印記新生兒置入[ITEM_SERIAL]。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "将印记的新生儿插入[ITEM_SERIAL]。",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 2,
+    "ImportVersion": 2,
+    "name": "WardenObjectiveData.Activate_Small_HSU_R3D1.InZoneFindItem",
+    "internalEnabled": true,
+    "persistentID": 3208729059
+}

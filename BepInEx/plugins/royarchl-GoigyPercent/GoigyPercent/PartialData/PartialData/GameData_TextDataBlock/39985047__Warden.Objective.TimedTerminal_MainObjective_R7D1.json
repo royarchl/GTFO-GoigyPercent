@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "<color=#47D1A8>Goigy</color> Preparation",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Préparation de nouveau-né HSU",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Preparazione HSU Neonato",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Vorbereitung der neugeborenen HSU-Einheit",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Preparación de HSU neonatal",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Подготовка неонатального HSU",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Preparação de HSU neonato",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Przygotowanie jednostki hydrostazy noworodka",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "新生児HSU準備",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "신생아 HSU 준비",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "新生HSU準備",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "新生儿HSU准备",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 0,
+    "ImportVersion": 0,
+    "name": "Warden.Objective.TimedTerminal_MainObjective_R7D1",
+    "internalEnabled": true,
+    "persistentID": 39985047
+}

@@ -1,0 +1,57 @@
+{
+    "datablock": "Text",
+    "SkipLocalization": false,
+    "MachineTranslation": false,
+    "English": "Use <color=orange>QUERY</color> command in terminal to gather information about the location of [ITEM_SERIAL] and bring the <color=#47D1A8>Goigy</color> to it",
+    "Description": "",
+    "CharacterMetaData": 1,
+    "French": {
+        "Translation": "Utilisez la commande <color=orange>QUERY</color> depuis le terminal pour obtenir plus d'informations sur l'emplacement de [ITEM_SERIAL] et apportez le <color=orange>nouveau-né</color> à cet endroit.",
+        "ShouldTranslate": false
+    },
+    "Italian": {
+        "Translation": "Usare il comando <color=orange>QUERY</color> nel terminale per recuperare informazioni su ubicazione di [ITEM_SERIAL] e portarvi il <color=orange>Neonato</color>.",
+        "ShouldTranslate": false
+    },
+    "German": {
+        "Translation": "Nutzen Sie den Befehl <color=orange>QUERY</color> an einem Terminal, um Informationen über den Standort von [ITEM_SERIAL] zu sammeln und bringen Sie das <color=orange>Neugeborene</color> dorthin.",
+        "ShouldTranslate": false
+    },
+    "Spanish": {
+        "Translation": "Usa el comando <color=orange>QUERY</color> en el terminal para recopilar información sobre la ubicación del objeto [ITEM_SERIAL] y lleva al <color=orange>neonato</color> hasta allí.",
+        "ShouldTranslate": false
+    },
+    "Russian": {
+        "Translation": "Используйте команду <color=orange>QUERY</color> на терминале, чтобы собрать сведения о местоположении предмета ([ITEM_SERIAL]), и отнесите туда <color=orange>новорожденного</color>.",
+        "ShouldTranslate": false
+    },
+    "Portuguese_Brazil": {
+        "Translation": "Use o comando <color=orange>QUERY</color> no terminal para coletar informações sobre a localização de [ITEM_SERIAL] e leve o <color=orange>neonato</color> até lá",
+        "ShouldTranslate": false
+    },
+    "Polish": {
+        "Translation": "Użyj polecenia <color=orange>QUERY</color> w terminalu, aby zebrać informacje o położeniu [ITEM_SERIAL] i dostarczyć na miejsce <color=orange>noworodka</color>",
+        "ShouldTranslate": false
+    },
+    "Japanese": {
+        "Translation": "端末で<color=orange>QUERY</color>コマンドを使用し、[ITEM_SERIAL]の位置に関する情報を集め、<color=orange>新生児</color>をそこに運べ",
+        "ShouldTranslate": false
+    },
+    "Korean": {
+        "Translation": "터미널에서 <color=orange>QUERY</color> 명령을 사용해 [ITEM_SERIAL] 위치 정보를 모으고 <color=orange>신생아</color> 그곳으로 운송할 것",
+        "ShouldTranslate": false
+    },
+    "Chinese_Traditional": {
+        "Translation": "在終端使用<color=orange>QUERY</color>指令收集關於[ITEM_SERIAL]地點的資訊，並將<color=orange>新生兒</color>帶到該處。",
+        "ShouldTranslate": false
+    },
+    "Chinese_Simplified": {
+        "Translation": "在终端上使用<color=orange>QUERY</color>（查询）命令收集关于[ITEM_SERIAL]位置的信息并将<color=orange>新生儿</color>带过去",
+        "ShouldTranslate": false
+    },
+    "ExportVersion": 3,
+    "ImportVersion": 3,
+    "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.V2.FindLocationInfo",
+    "internalEnabled": true,
+    "persistentID": 898686591
+}
